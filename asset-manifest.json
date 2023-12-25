@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SWeb/static/css/main.b10e4276.css",
+    "main.js": "/SWeb/static/js/main.947e3b16.js",
+    "static/js/787.780ea7fa.chunk.js": "/SWeb/static/js/787.780ea7fa.chunk.js",
+    "static/media/anime.jpg": "/SWeb/static/media/anime.4947a75d077a88b9acc7.jpg",
+    "static/media/anh-dep-ve-am-nhac-04688.jpg": "/SWeb/static/media/anh-dep-ve-am-nhac-04688.88ff0fb224332c4d64b7.jpg",
+    "index.html": "/SWeb/index.html",
+    "main.b10e4276.css.map": "/SWeb/static/css/main.b10e4276.css.map",
+    "main.947e3b16.js.map": "/SWeb/static/js/main.947e3b16.js.map",
+    "787.780ea7fa.chunk.js.map": "/SWeb/static/js/787.780ea7fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10e4276.css",
+    "static/js/main.947e3b16.js"
+  ]
+}
